@@ -1,2 +1,1 @@
-# connect4-nvtquu
-
+brio-takehome-assignment-template
